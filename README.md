@@ -6,8 +6,6 @@
 <h1> Bienvenido a mi perfil de GitHub! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=#88412878.#88412878)
-
 </p>
 <div size='20px'> Hola! Me llamo Franco y soy desarrollador web full Stack. Desde mi adolescencia me apasiona la programación y siempre busco oportunidades de aprender y mejorar. Mi especialidad son Javascript, HTML y CSS, y herramientas de desarrollo como React.js y Express.js. También me gusta incursionar en otros lenguajes como Python y C#. :smile: 
 </div>
