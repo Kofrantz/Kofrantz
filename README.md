@@ -12,7 +12,7 @@
 <div size='20px'> Hola! Me llamo Franco y soy desarrollador web full Stack. Desde mi adolescencia me apasiona la programación y siempre busco oportunidades de aprender y mejorar. Mi especialidad son Javascript, HTML y CSS, y herramientas de desarrollo como React.js y Express.js. También me gusta incursionar en otros lenguajes como Python y C#. :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> Sobre mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -21,8 +21,8 @@
 
 - 🌱 Actualmente aprendiendo: Para este proyecto estoy aprendiendo a trabajar con autenticación de Google y con pasarelas de pagos. 
 
-- 👯 Proyectos:
-🔸PikaBoss: Construí una pagina web y una API Rest que trabaja en conjunto como proyecto individual del Bootcamp (Enlace: https://pikaboss.herokuapp.com/) <br/>
+- 👯 Proyectos:<br>
+🔸PikaBoss: Construí una pagina web y una API Rest que trabaja en conjunto como proyecto individual del Bootcamp (Enlace: https://pikaboss.herokuapp.com/) <br>
 🔸RocketPlay: En conjunto con mis compañeros estamos desarrollando una plataforma de videos, flexible, adaptable y escalable para empresas o academias.  
   
 
