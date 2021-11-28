@@ -1,6 +1,6 @@
 
-<div align="center" width="100%" height = "250px">
-<img style='objectFit: cover' width="100%" height = "250px" src="./github-bg.png" alt="cover" />
+<div align="center" style="width: 100%; height: 250px">
+<img style='width: 100%; objectFit: cover' src="./github-bg.png" alt="cover" />
 </div>
 
 <h1> Bienvenido a mi perfil de GitHub! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
