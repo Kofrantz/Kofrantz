@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Bienvenido a mi perfil de GitHub! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=#88412878.#88412878)
@@ -22,7 +22,7 @@
 - 🌱 Actualmente aprendiendo: Para este proyecto estoy aprendiendo a trabajar con autenticación de Google y con pasarelas de pagos. 
 
 - 👯 Proyectos:
-🔸PikaBoss: Construí una pagina web y una API Rest que trabaja en conjunto como proyecto individual del Bootcamp (Enlace: https://pikaboss.herokuapp.com/) 
+🔸PikaBoss: Construí una pagina web y una API Rest que trabaja en conjunto como proyecto individual del Bootcamp (Enlace: https://pikaboss.herokuapp.com/) <br/>
 🔸RocketPlay: En conjunto con mis compañeros estamos desarrollando una plataforma de videos, flexible, adaptable y escalable para empresas o academias.  
   
 
