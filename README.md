@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" style='objectFit: cover'>
 <img width="100%" height = "250px" src="./github-bg.png" alt="cover" />
 </div>
 
