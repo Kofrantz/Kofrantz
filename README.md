@@ -15,9 +15,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 Trabajo actual: Estoy estudiando en Henry, desarrollando con un grupo de estudiantes el proyecto final del bootcamp.
+- 🔭 Trabajo actual: Estoy trabajando de tutor, en el curso de Python de Coderhouse. Aunque este trabajo es guiado a la educacion, mi meta es especializarme en el desarrollo de software.
 
-- 🌱 Actualmente aprendiendo: Para este proyecto estoy aprendiendo a trabajar con autenticación de Google y con pasarelas de pagos. 
+- 🌱 Actualmente aprendiendo: Me estoy especializando en backend con Python. 
 
 - 👯 Proyectos:<br>
 🔸PikaBoss: Construí una pagina web y una API Rest que trabaja en conjunto como proyecto individual del Bootcamp (Enlace: https://pikaboss.herokuapp.com/) <br>
