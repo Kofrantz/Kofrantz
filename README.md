@@ -1,46 +1,42 @@
-🛠 Profile being updated 🛠
-<!-- <div align="center" style="width: 100%; height: 250px">
-<img style='width: 100%; objectFit: cover' src="./github-bg.png" alt="cover" />
-</div>
+# Hi there, I'm Franco Ariel Alfano 👋
 
-<h1> Bienvenido a mi perfil de GitHub! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+**Backend Software Engineer | Go & Python | Microservices & Real-Time Systems**
 
-</p>
-<div size='20px'> Hola! Me llamo Franco y soy desarrollador web full Stack. Desde mi adolescencia me apasiona la programación y siempre busco oportunidades de aprender y mejorar. Mi especialidad son Javascript, HTML y CSS, y herramientas de desarrollo como React.js y Express.js. También me gusta incursionar en otros lenguajes como Python y C#. :smile: 
-</div>
+I am a Backend-focused Software Engineer based in Córdoba, Argentina, with production experience building scalable, distributed systems. I specialize in designing robust architectures, from high-performance microservices to ultra-low latency real-time communication bridges.
 
-<h2> Sobre mi </h2>
+I thrive on solving complex technical challenges, optimizing performance, and building reusable infrastructure. 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+### 🛠️ Tech Stack & Skills
+* **Languages:** Go (Golang), Python, Node.js / TypeScript
+* **Architecture:** Microservices, gRPC, Protocol Buffers, REST APIs, Multi-tenant Systems
+* **Infrastructure & DBs:** Docker, Linux (VPS), PostgreSQL, MySQL, MongoDB
+* **Real-Time & Networking:** WebRTC, WebSockets, Server-Sent Events (SSE)
 
+---
 
-- 🔭 Trabajo actual: Estoy trabajando de tutor, en el curso de Python de Coderhouse. Aunque este trabajo es guiado a la educacion, mi meta es especializarme en el desarrollo de software.
+### 🚀 Featured Projects
 
-- 🌱 Actualmente aprendiendo: Me estoy especializando en backend con Python. 
+#### 🔐 [Be Digital Auth](https://github.com/Kofrantz/be-digital-auth) (Golang / gRPC / Docker)
+A reusable, high-performance authentication microservice designed for multi-client SaaS architectures.
+* **Dual Interface:** Exposes both REST (for frontend) and gRPC (for internal service-to-service communication).
+* **Advanced Auth Flow:** Implements a layered security model with Client Tokens, User Access Tokens (JWT), Refresh Token rotation, and OAuth2 (Google/Facebook).
+* **Stateless & Scalable:** Fully containerized and stateless validation, acting as a centralized gateway for distributed backend systems.
 
-- 👯 Proyectos:<br>
-🔸PikaBoss: Construí una pagina web y una API Rest que trabaja en conjunto como proyecto individual del Bootcamp (Enlace: https://pikaboss.herokuapp.com/) <br>
-🔸RocketPlay: En conjunto con mis compañeros estamos desarrollando una plataforma de videos, flexible, adaptable y escalable para empresas o academias.  
-  
+#### 🎮 [Mobile Gamepad Bridge](https://github.com/Kofrantz/mobile-gamepad-bridge) (Python / WebRTC)
+Turn any smartphone into a high-performance, wireless Xbox controller for PC with ultra-low latency.
+* **Zero-Latency Feel (5-10ms):** Leverages WebRTC Data Channels for UDP-like P2P connection, bypassing standard HTTP overhead.
+* **Bit-Packed Payloads:** Controller state is optimized into a minimal binary struct (`<dH4b2B`) via bitwise XOR operations to maximize network efficiency.
+* **OS-Level Emulation:** Integrates with `vgamepad` to create a virtual, native Xbox 360 controller on the host machine.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/#88412878?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/#88412878?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/#88412878?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/#88412878?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/#88412878?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/#88412878?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/#88412878?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/#88412878?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/#88412878?tab=repositories&q=&type=&language=unity&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
-<a href= https://github.com/#88412878?tab=repositories&q=&type=&language=blender&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
+---
 
+### 💼 Professional Experience Highlights
+Previously, I spent 2+ years as a Software Engineer at a tech startup, where I developed the backend for a production **IoT access-control platform**. My day-to-day involved writing microservices in Go with gRPC, building JWT/Role-based authorization systems, handling real-time updates via SSE, and managing Dockerized deployments.
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a target="_blank" href = 'https://www.linkedin.com/in/franco-alfano'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/#88412878'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+---
 
+### 📫 Let's Connect!
+I am currently open to new remote opportunities worldwide. Let's build something great together.
 
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer> -->
+* **LinkedIn:** [linkedin.com/in/franco-alfano](https://www.linkedin.com/in/franco-alfano)
+* **Email:** franco.alfano1404@gmail.com
