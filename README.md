@@ -23,7 +23,7 @@ A reusable, high-performance authentication microservice designed for multi-clie
 * **Stateless & Scalable:** Fully containerized and stateless validation, acting as a centralized gateway for distributed backend systems.
 
 #### 🎮 [Mobile Gamepad Bridge](https://github.com/Kofrantz/mobile-gamepad-bridge) (Python / WebRTC)
-Turn any smartphone into a high-performance, wireless Xbox controller for PC with ultra-low latency.
+Stream physical Bluetooth gamepad inputs from your smartphone to your PC with ultra-low latency, emulating a native Xbox controller.
 * **Zero-Latency Feel (5-10ms):** Leverages WebRTC Data Channels for UDP-like P2P connection, bypassing standard HTTP overhead.
 * **Bit-Packed Payloads:** Controller state is optimized into a minimal binary struct (`<dH4b2B`) via bitwise XOR operations to maximize network efficiency.
 * **OS-Level Emulation:** Integrates with `vgamepad` to create a virtual, native Xbox 360 controller on the host machine.
